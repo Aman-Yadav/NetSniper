@@ -1,6 +1,5 @@
 <h1>Netsniper</h1>
 
-First project as a Cyber Security student.
 See video and images for quick demostration.
 
 This Port Scanner which can scan for TCP ports. Using NetSniper we can perform a SYN flood attack on an IP or a website. This project is 100% based on python. This port scanner which we named as NetSniper can be very useful in the process of information gathering. NetSniper consists of three parts each part performing its own assigned task. Result of tcp scan are immediately showed on the terminal screen.
